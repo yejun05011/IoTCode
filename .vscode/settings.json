@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "STEP_MOTER.C": "cpp",
+        "smart_soil": "c"
+    }
+}
